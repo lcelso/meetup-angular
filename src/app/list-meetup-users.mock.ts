@@ -8,7 +8,7 @@ export const DATA: any = {
       photo_id: 256387670,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/1/d/f/6/member_256387670.jpeg',
+      photo_link: 'assets/member_256387670.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/1/d/f/6/thumb_256387670.jpeg'
     },
     name: 'Osmar'
@@ -22,7 +22,7 @@ export const DATA: any = {
       photo_id: 242750697,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/c/6/0/9/member_242750697.jpeg',
+      photo_link: 'assets/member_242750697.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/c/6/0/9/thumb_242750697.jpeg'
     },
     name: 'Luan Curti'
@@ -36,7 +36,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/4/0/3/a/member_217876442.jpeg',
+      photo_link: 'assets/member_217876442.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/4/0/3/a/thumb_217876442.jpeg'
       },
     name: 'Celso Alves Guarani Kaiowá'
@@ -50,7 +50,7 @@ export const DATA: any = {
       photo_id: 271263985,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/f/9/1/member_271263985.jpeg',
+      photo_link: 'assets/member_271263985.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/f/9/1/thumb_271263985.jpeg'
       },
     name: 'Fernando LB'
@@ -64,7 +64,7 @@ export const DATA: any = {
       photo_id: 258368018,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/1/f/5/2/member_258368018.jpeg',
+      photo_link: 'assets/member_258368018.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/1/f/5/2/thumb_258368018.jpeg'
       },
     name: 'Alan Cezar'
@@ -78,7 +78,7 @@ export const DATA: any = {
       photo_id: 265253112,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/c/f/7/8/member_265253112.jpeg',
+      photo_link: 'assets/member_265253112.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/c/f/7/8/thumb_265253112.jpeg'
       },
     name: 'Osmar Santos Jr'
@@ -92,7 +92,7 @@ export const DATA: any = {
       photo_id: 267231116,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/c/7/a/c/member_267231116.jpeg',
+      photo_link: 'assets/member_267231116.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/c/7/a/c/thumb_267231116.jpeg'
       },
     name: 'Anna Flávia'
@@ -106,7 +106,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/6/d/7/b/member_268348027.jpeg',
+      photo_link: 'assets/member_268348027.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/6/d/7/b/thumb_268348027.jpeg'
       },
     name: 'Mariana Gomes'
@@ -120,7 +120,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/7/2/f/3/member_254669427.jpeg',
+      photo_link: 'assets/member_254669427.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/7/2/f/3/thumb_254669427.jpeg'
       },
     name: 'Everton Cruz'
@@ -134,7 +134,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/a/5/9/c/member_244242396.jpeg',
+      photo_link: 'assets/member_244242396.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/a/5/9/c/thumb_244242396.jpeg'
       },
     name: 'Diogo Da Silva Ferreira'
@@ -148,7 +148,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'https://secure.meetupstatic.com/photos/member/6/f/b/member_253855035.jpeg',
+      photo_link: 'assets/member_253855035.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/d/6/f/b/thumb_253855035.jpeg'
       },
     name: 'Aline Rodrigues'
