@@ -3,14 +3,18 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { SharedModule } from './shared.module';
+// import { ListMeetupUsersComponent } from 'list-meetup-users/list-meetup-users.component';
+
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    SharedModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
