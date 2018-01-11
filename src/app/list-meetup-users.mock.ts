@@ -152,6 +152,20 @@ export const DATA: any = {
       thumb_link: 'https://secure.meetupstatic.com/photos/member/d/6/f/b/thumb_253855035.jpeg'
       },
     name: 'Aline Rodrigues'
+  },
+  {
+    country: 'br',
+    city: 'Santo André',
+    link: 'http://www.meetup.com/members/236655821',
+    photo: {
+      highres_link: 'https://secure.meetupstatic.com/photos/member/d/6/f/b/highres_253855035.jpeg',
+      photo_id: 268348027,
+      base_url: 'https://secure.meetupstatic.com',
+      type: 'member',
+      photo_link: 'assets/member_271246412.jpeg',
+      thumb_link: 'https://secure.meetupstatic.com/photos/member/d/6/f/b/thumb_253855035.jpeg'
+      },
+    name: 'Victor Caetano'
   }
   ]
 };
