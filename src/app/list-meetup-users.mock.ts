@@ -58,7 +58,7 @@ export const DATA: any = {
   {
     country: 'br',
     city: 'São Paulo',
-    link: 'http://www.meetup.com/members/238170870',
+    link: 'http://www.meetup.com/members/188463776',
     photo: {
       highres_link: 'https://secure.meetupstatic.com/photos/member/1/f/5/2/highres_258368018.jpeg',
       photo_id: 258368018,
