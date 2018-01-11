@@ -40,3 +40,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+wireframe/
+bs-config.js
+
+# Subprojetcs
+/src/shared-libs/*
+/src/shared-libs/list-meetup-users/*
+
