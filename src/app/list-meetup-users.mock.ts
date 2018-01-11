@@ -30,7 +30,7 @@ export const DATA: any = {
   {
     country: 'br',
     city: 'Mogi das Cruzes',
-    link: 'http://www.meetup.com/members/199709066',
+    link: 'http://www.meetup.com/members/161067012',
     photo: {
       highres_link: 'https://secure.meetupstatic.com/photos/member/4/0/3/a/highres_217876442.jpeg',
       photo_id: 268348027,
