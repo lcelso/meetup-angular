@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 80px;
+  transform: skewY(-5deg);
+  letter-spacing: 4px;
+  word-spacing: 0;
+  color: #FFF;
+  text-shadow:
+    -1px -1px 0 #000,
+    -2px -2px 0 #000,
+    -3px -3px 0 #000,
+    -4px -4px 0 #000,
+    -5px -5px 0 #000,
+    -6px -6px 0 #000,
+    -7px -7px 0 #000,
+    -8px -8px 0 #000,
+    -30px 20px 40px #000
+}
