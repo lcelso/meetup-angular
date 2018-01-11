@@ -46,5 +46,5 @@ wireframe/
 bs-config.js
 
 # Subprojetcs
-/shared-libs/*
-/shared-libs/list-meetup-users/*
+/src/shared-libs/*
+/src/shared-libs/list-meetup-users/*
