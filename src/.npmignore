@@ -1,0 +1,12 @@
+.git
+.gitignore
+.gitmodules
+.editorconfig
+package.json.old
+package-lock.json
+
+.*.dev.ts
+/e2e
+/node_module
+/modules
+/src/assets/*
