@@ -36,7 +36,7 @@ export const DATA: any = {
       photo_id: 268348027,
       base_url: 'https://secure.meetupstatic.com',
       type: 'member',
-      photo_link: 'assets/member_217876442.jpeg',
+      photo_link: 'assets/member_274348417.jpeg',
       thumb_link: 'https://secure.meetupstatic.com/photos/member/4/0/3/a/thumb_217876442.jpeg'
       },
     name: 'Celso Alves Guarani Kaiowá'

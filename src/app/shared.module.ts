@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 
 import { ListMeetupUsersComponent } from 'list-meetup-users/list-meetup-users.component';
+import { ModalComponent } from 'modal/modal.component';
 
 @NgModule({
   imports: [
@@ -13,9 +14,11 @@ import { ListMeetupUsersComponent } from 'list-meetup-users/list-meetup-users.co
   ],
   declarations: [
     ListMeetupUsersComponent,
+    ModalComponent,
   ],
   exports: [
     ListMeetupUsersComponent,
+    ModalComponent,
   ]
 })
 export class SharedModule { }
